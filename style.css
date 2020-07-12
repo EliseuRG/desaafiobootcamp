@@ -1,0 +1,103 @@
+body
+{
+    font-family: Arial;
+    color: #006958;
+    margin: 0;
+}
+
+.caixa1
+{
+    text-align:   left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #FFF;
+}
+
+.caixa2
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background:  url(icones/arena2.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.caixa3
+{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.container1
+{   
+    margin-left:  15px;
+}
+
+.container2
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.souverdao
+{
+    width:       145px;
+    height:       50px;
+    margin-right: 83%;
+}
+
+.icones
+{
+    width:  30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.brasao
+{
+    width:  120px;
+    height: 120px;
+}
+
+.tela
+{
+    background:  #fff;
+    width:        800px;
+    border-radius: 30px;
+    text-align:  center;
+    padding-top:   30px;
+}
+
+a
+{
+  text-decoration: none;
+  color:         #fff;
+}
+
+.botao
+{
+    padding-top:     10px;
+    padding-bottom:  10px;
+    font-weight:     bold;
+    font-size:       20px;
+    background: #006958;
+    border-radius:   20px;
+    margin-left:    250px;
+    margin-right:   250px;
+    margin-bottom:   30px;
+}
+
+.desenvolvedor
+{
+  font-size: 12px;
+  color: #006958;
+  text-align: center;
+}
+
+.eliseucompany
+{
+  width:  60px;
+  height: 52.5px;
+}
